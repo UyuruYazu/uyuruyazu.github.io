@@ -2,15 +2,15 @@
 layout: page
 title: About
 description: 为宅而生靠番过活
-keywords: Koryelu, Keyi Lu
+keywords: やづうゆる, uyuruyazu
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是Koryelu，为宅而生，靠番过活。
+我是やづうゆる，为宅而生，靠番过活。
 
-喜欢「善良的软萌妹」。
+喜欢「善良的蓝孩纸」。
 
 坚信肥宅有power，有爱世界不孤单。
 
