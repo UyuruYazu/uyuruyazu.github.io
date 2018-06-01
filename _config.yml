@@ -2,23 +2,23 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://koryelu.github.io
+url: https://uyuruyazu.github.io
 date_format: "ordinal"
 title: Koryelu's Blog
 subtitle: "柑橘味气息的死肥宅"
-description: "一个死肥宅的个人博客"
-keywords: Koryelu, Keyi Lu, 死肥宅, 柑橘味
-timezone: Asia/Shanghai
+description: "一个肥宅的个人博客"
+keywords: uyuruyazu, やづうゆるの部落格, 肥宅, 柑橘味
+timezone: Asia/Hangzhou
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Keyi Lu
-organization: koryelu.github.io
-organization_url: https://koryelu.github.io
-github_username: koryelu
+author: やづうゆる
+organization: uyuruyazu.github.io
+organization_url: https://uyuruyazu.github.io
+github_username: uyuruyazu
 location: Hangzhou, China
 email: koryelu@gmail.com
 
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: koryelu/koryelu.github.io
+repository: uyuruyazu/uyuruyazu.github.io
 
 # ---------------- #
 #      Comments    #
